@@ -1,7 +1,7 @@
 <h1 align="center"> Hello, I'm Yuri Tolêdo de Barros  👋</h1>
 
 
-<h3 align="center">I'm a Mechanical Engineering Student who loves Data Science and the way that it can be implemented to generate value.</h3>
+<h3 align="center">I'm a Mechanical Engineering Student who loves Data Science and the way it's can be implemented to generate value.</h3>
 
 ---
 
