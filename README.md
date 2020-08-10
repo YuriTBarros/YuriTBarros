@@ -21,7 +21,7 @@
 
 ---
 
-### :green_book: Latest Posts in Portuguese
+### :green_book: Latest Blog Posts in Portuguese
 
 <!-- BLOG-POST-LIST:START -->
 * [#02 Aprenda Estatística com Python: Análise Categórica](https://learndataeveryday.com/02-aprenda-estatistica-com-python-analise-categorica/) 
