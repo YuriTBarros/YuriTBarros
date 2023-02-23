@@ -5,7 +5,7 @@
 
 ---
 
-- :computer: I'm currently working on Engineering web Applications
+- :computer: I'm currently working on Engineering Web Applications
 - :green_book: I have a blog in Portuguese and English , where I post about HVAC, Refrigeration, Utilities, Plumbing, Data Science and more.  
 - 🌱 I’m current learning D3.js. 
 - 👯 I’m looking to collaborate with others in Data Science and Engineering Projects
