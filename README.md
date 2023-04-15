@@ -1,13 +1,13 @@
 <h1 align="center"> Hello, I'm Yuri Tolêdo de Barros  👋</h1>
 
 
-<h3 align="center">I'm a Mechanical Engineering and Data Science Enthusiast</h3>
+<h3 align="center">I'm a Mechanical Engineer and Data Science Enthusiast</h3>
 
 ---
 
-- :computer: I'm currently working on Engineering Web Applications
+- :computer: I'm currently working on Web Applications to simplify engineering activities.
 - :green_book: I have a blog in Portuguese and English , where I post about HVAC, Refrigeration, Utilities, Plumbing, Data Science and more.  
-- 🌱 I’m current learning D3.js. 
+- 🌱 I’m current learning D3.js, Web Design and SQL. 
 - 👯 I’m looking to collaborate with others in Data Science and Engineering Projects
 
 ### Connect with me:
