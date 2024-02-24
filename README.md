@@ -5,17 +5,15 @@
 
 ---
 
-- :computer: I'm currently working on Web Applications to simplify engineering activities.
-- :green_book: I have a blog in Portuguese and English , where I post about HVAC, Refrigeration, Utilities, Plumbing, Data Science and more.  
-- 🌱 I’m current learning D3.js, Web Design and SQL. 
-- 👯 I’m looking to collaborate with others in Data Science and Engineering Projects
+- :computer: I'm working on Web Applications to simplify engineering activities.
+- :green_book: I have a blog in Portuguese and English, where I post about HVAC, Refrigeration, Utilities, Plumbing, Data Science, and more.  
+- 🌱 I’m currently learning Web Development and Data Science.
+
 
 ### Connect with me:
 [<img align="left"  width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/linkedin.svg" />](https://www.linkedin.com/in/yuritoledodebarros/)
 
 [<img align="left" alt="yuritbarros | Blog" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/wordpress.svg" />](https://tbarros.com/)
-
-[<img align="left" alt="yuritbarros | Instagram" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.instagram.com/yuri.tbarros/)
 
 <br />
 
@@ -35,7 +33,7 @@
 
 <!-- BLOG-POST-LIST:END -->
 
-
+### :green_book: Projects
 
 ---
 
