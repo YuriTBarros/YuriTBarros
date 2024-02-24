@@ -23,7 +23,7 @@
  
 ---
 
-###  Projects
+###  Projects Related to Technology and Data Science:
 <!-- PROJECTS-LIST:START -->
 
 <!-- PROJECTS-LIST:END -->
@@ -35,7 +35,7 @@
 
 <!-- BLOG-POST-LIST:END -->
 
-### 📙: Latest Blog Posts in English
+### 📙 Latest Blog Posts in English
 
 <!-- BLOG-POST-LIST:START -->
 * [Industrial Refrigeration: A Brief Overview](https://tbarros.com/en/industrial-refrigeration/) 
