@@ -33,7 +33,7 @@
 
 <!-- BLOG-POST-LIST:END -->
 
-### :green_book: Projects
+###  Projects
 
 ---
 
