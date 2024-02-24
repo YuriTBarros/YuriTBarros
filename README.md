@@ -16,7 +16,9 @@
 [<img align="left" alt="yuritbarros | Blog" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/wordpress.svg" />](https://tbarros.com/)
 
 <br />
+### More about my mechanical engineering career:
 
+https://tbarros.com/en/about-me-and-portfolio/
 ---
 ###  Projects
 <!-- PROJECTS-LIST:START -->
