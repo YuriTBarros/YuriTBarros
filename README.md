@@ -18,7 +18,11 @@
 <br />
 
 ---
+###  Projects
+<!-- PROJECTS-LIST:START -->
 
+<!-- PROJECTS-LIST:END -->
+---
 ### :green_book: Latest Blog Posts in Portuguese
 
 <!-- BLOG-POST-LIST:START -->
@@ -32,9 +36,6 @@
 * [Industrial Refrigeration: A Brief Overview](https://tbarros.com/en/industrial-refrigeration/) 
 
 <!-- BLOG-POST-LIST:END -->
-
-###  Projects
-
 ---
 
 <img align="left" alt="Yuri's Github Stats" src="https://github-readme-stats.vercel.app/api?username=YuriTBarros&show_icons=true&hide_border=true" />
