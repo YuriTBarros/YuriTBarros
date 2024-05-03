@@ -1,4 +1,4 @@
-<h1 align="center"> Hello, I'm Yuri Tolêdo de Barros  👋</h1>
+<h1 align="center"> Hello, I'm Yuri T. de Barros  👋</h1>
 
 
 <h3 align="center">I'm a Mechanical Engineer and Data Science Enthusiast</h3>
