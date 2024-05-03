@@ -19,7 +19,7 @@
 
 ### More about my mechanical engineering career:
 
- <p>https://tbarros.com/en/about-me-and-portfolio/</p> 
+ <p>https://tbarros.com/en/about-me/</p> 
  
 ---
 
