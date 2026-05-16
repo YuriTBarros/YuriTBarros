@@ -98,7 +98,7 @@ I operate at the intersection of traditional design and build industry and advan
 <a href="https://tbarros.com/" target="_blank"><img src="https://img.shields.io/badge/-WordPress-21759B?style=flat&logo=wordpress&logoColor=white" /></a>
 </p>
 
-💡 Deep dive into my mechanical engineering background and industry observations: [<a href="https://tbarros.com/" target="_blank"><img src="https://img.shields.io/badge/-WordPress-21759B?style=flat&logo=wordpress&logoColor=white" /></a>)
+💡 Deep dive into my mechanical engineering background and industry observations: <a href="https://tbarros.com/" target="_blank"><img src="https://img.shields.io/badge/-WordPress-21759B?style=flat&logo=wordpress&logoColor=white" /></a>
 
 ### :green_book: Latest Blog Posts (Portuguese)
 * [Refrigeração Industrial: Uma Breve Introdução](https://tbarros.com/refrigeracao-industrial/) 
